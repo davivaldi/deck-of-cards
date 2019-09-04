@@ -1,0 +1,11 @@
+C:\Users\dropi_000\Desktop\dotNetStack\OOP\Deck\deckofCards\bin\Debug\netcoreapp2.2\deckofCards.deps.json
+C:\Users\dropi_000\Desktop\dotNetStack\OOP\Deck\deckofCards\bin\Debug\netcoreapp2.2\deckofCards.runtimeconfig.json
+C:\Users\dropi_000\Desktop\dotNetStack\OOP\Deck\deckofCards\bin\Debug\netcoreapp2.2\deckofCards.runtimeconfig.dev.json
+C:\Users\dropi_000\Desktop\dotNetStack\OOP\Deck\deckofCards\bin\Debug\netcoreapp2.2\deckofCards.dll
+C:\Users\dropi_000\Desktop\dotNetStack\OOP\Deck\deckofCards\bin\Debug\netcoreapp2.2\deckofCards.pdb
+C:\Users\dropi_000\Desktop\dotNetStack\OOP\Deck\deckofCards\obj\Debug\netcoreapp2.2\deckofCards.csprojAssemblyReference.cache
+C:\Users\dropi_000\Desktop\dotNetStack\OOP\Deck\deckofCards\obj\Debug\netcoreapp2.2\deckofCards.csproj.CoreCompileInputs.cache
+C:\Users\dropi_000\Desktop\dotNetStack\OOP\Deck\deckofCards\obj\Debug\netcoreapp2.2\deckofCards.AssemblyInfoInputs.cache
+C:\Users\dropi_000\Desktop\dotNetStack\OOP\Deck\deckofCards\obj\Debug\netcoreapp2.2\deckofCards.AssemblyInfo.cs
+C:\Users\dropi_000\Desktop\dotNetStack\OOP\Deck\deckofCards\obj\Debug\netcoreapp2.2\deckofCards.dll
+C:\Users\dropi_000\Desktop\dotNetStack\OOP\Deck\deckofCards\obj\Debug\netcoreapp2.2\deckofCards.pdb
